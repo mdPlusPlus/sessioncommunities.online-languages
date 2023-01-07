@@ -121,7 +121,7 @@
 		"session+a03c"                  => "🇬🇧"
 	);
 
-	//
+	// http://45.154.15.4:8888/
 	$languages_a19a = array(
 		"china+a19a"                    => "🇨🇳"
 	);
@@ -135,7 +135,7 @@
 		"webdev+b79f"                   => "🇬🇧"
 	);
 
-	//
+	// https://session.ka7vee.com/
 	$languages_c01b = array(
 		"ares-races+c01b"               => "🇬🇧",
 		"cfm+c01b"                      => "🇬🇧",

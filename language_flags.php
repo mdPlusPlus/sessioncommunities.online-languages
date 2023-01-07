@@ -5,7 +5,7 @@
 	);
 
 	// http://sog.caliban.org/
-    $languages_118d = array(
+	$languages_118d = array(
 		"android+118d"                  => "🇬🇧",
 		"brasil+118d"                   => "🇵🇹",
 		"deutsch+118d"                  => "🇩🇪",
@@ -29,7 +29,7 @@
 		"travel+118d"                   => "🇬🇧",
 		"uk+118d"                       => "🇬🇧",
 		"unix+118d"                     => "🇬🇧"
-    );
+	);
 
 	// http://45.77.102.159/
 	$languages_132d = array(

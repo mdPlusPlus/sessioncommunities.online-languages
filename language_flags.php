@@ -145,7 +145,9 @@
 		"dstar+c01b"                    => "🇬🇧",
 		"hamradio+c01b"                 => "🇬🇧",
 		"hf+c01b"                       => "🇬🇧",
+		"iphone+c01b"                   => "🇬🇧",
 		"ka7vee-w7sj+c01b"              => "🇬🇧",
+		"plex+c01b"                     => "🇬🇧",
 		"ralph_june+c01b"               => "🇬🇧",
 		"repeaters+c01b"                => "🇬🇧"
 	);

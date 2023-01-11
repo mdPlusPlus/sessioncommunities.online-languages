@@ -149,13 +149,14 @@
 		"ka7vee-w7sj+c01b"              => "🇬🇧",
 		"plex+c01b"                     => "🇬🇧",
 		"ralph_june+c01b"               => "🇬🇧",
-		"repeaters+c01b"                => "🇬🇧"
+		"repeaters+c01b"                => "🇬🇧",
+		"specialkids+c01b"              => "🇬🇧"
 	);
 
 	// http://open.session.codes/
 	$languages_c7fb = array(
 		"4c2ba1+c7fb"                   => "🇪🇸",
-		"6e7b5f+c7fb"                   => "",
+		"6e7b5f+c7fb"                   => "🇬🇧",
 		"90ca71+c7fb"                   => "🇷🇺",
 		"a80d69+c7fb"                   => "🇬🇧",
 		"d8dc40+c7fb"                   => "🇪🇸",

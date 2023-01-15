@@ -165,10 +165,9 @@
 		"90ca71+c7fb"                   => "🇷🇺",
 		"a4bb14+c7fb"                   => "🇧🇬",
 		"a80d69+c7fb"                   => "🇬🇧",
-		"ab1a4d+c7fb"                   => "",
 		"d8dc40+c7fb"                   => "🇪🇸",
 		"edb497+c7fb"                   => "🇨🇳",
-		"sc+c7fb"                       => ""
+		"sc+c7fb"                       => "🇬🇧"
 	);
 
 	// http://95.179.250.131/
@@ -181,7 +180,7 @@
 	// https://sog.zcyph.cc/
 	$languages_e56f = array(
 		"offtopic+e56f"                 => "🇬🇧",
-		"sessiondev+e56f"               => ""
+		"sessiondev+e56f"               => "🇬🇧"
 	);
 
 	// http://remote.noff.co:8700/

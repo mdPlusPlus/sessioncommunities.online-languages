@@ -52,7 +52,7 @@
 
 	// http://170.64.140.202/
 	$languages_15a0 = array(
-		"ufo+15a0"                      => ""
+		"ufo+15a0"                      => "🇬🇧"
 	);
 
 	// http://116.203.217.101/
@@ -65,15 +65,18 @@
 
 	// http://173.249.51.184/
 	$languages_2812 = array(
+		"energy-fi+2812"                => "🇫🇮",
+		"ev-en+2812"                    => "🇬🇧",
 		"fi+2812"                       => "🇫🇮",
 		"main+2812"                     => "",
+		"pv-en+2812"                    => "🇬🇧",
 		"scandinavia+2812"              => ""
 	);
 
 	// http://sogs.horse.xxx/
 	$languages_2b92 = array(
 		"biz+2b92"                      => "🇬🇧",
-		"br+2b92"                       => "",
+		"br+2b92"                       => "🇵🇹",
 		"gee+2b92"                      => "🇬🇧",
 		"guns+2b92"                     => "🇬🇧"
 	);
@@ -109,7 +112,7 @@
 		"pk+8e2e"                       => "🇫🇮",
 		"SuomenTori+8e2e"               => "🇫🇮",
 		"suomentoriv2+8e2e"             => "🇫🇮",
-		"tori+8e2e"                     => ""
+		"tori+8e2e"                     => "🇫🇮"
 	);
 
 	// https://open.getsession.org/
@@ -133,6 +136,7 @@
 		"philosophy+b79f"               => "🇬🇧",
 		"trading+b79f"                  => "🇬🇧",
 		"uncensored+b79f"               => "🇬🇧",
+		"uncensorednsfw+b79f"           => "🇬🇧",
 		"webdev+b79f"                   => "🇬🇧"
 	);
 
@@ -176,7 +180,8 @@
 
 	// https://sog.zcyph.cc/
 	$languages_e56f = array(
-		"offtopic+e56f"                 => "🇬🇧"
+		"offtopic+e56f"                 => "🇬🇧",
+		"sessiondev+e56f"               => ""
 	);
 
 	// http://remote.noff.co:8700/

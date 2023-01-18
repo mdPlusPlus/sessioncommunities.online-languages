@@ -6,6 +6,7 @@
 
 	// http://sog.caliban.org/
 	$languages_118d = array(
+		"ai+118d"                       => "🇬🇧",
 		"android+118d"                  => "🇬🇧",
 		"brasil+118d"                   => "🇵🇹",
 		"deutsch+118d"                  => "🇩🇪",
@@ -99,6 +100,11 @@
 		"internet+70d0"                 => "🇬🇧"
 	);
 
+	// http://89.147.109.247/
+	$languages_78aa = array(
+		"cannabis+78aa" => ""
+	);
+
 	// http://session.mathnodes.com/
 	$languages_8585 = array(
 		"mathnodes-dvpn-oxen-dero+8585" => "🇬🇧"
@@ -160,6 +166,7 @@
 
 	// http://open.session.codes/
 	$languages_c7fb = array(
+		"3a28dd+c7fb"                   => "",
 		"4c2ba1+c7fb"                   => "🇪🇸",
 		"6e7b5f+c7fb"                   => "🇬🇧",
 		"90ca71+c7fb"                   => "🇷🇺",
@@ -232,6 +239,7 @@
 		$languages_49ac,
 		$languages_52bc,
 		$languages_70d0,
+		$languages_78aa,
 		$languages_8585,
 		$languages_8e2e,
 		$languages_a03c,

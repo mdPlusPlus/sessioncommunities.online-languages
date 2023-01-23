@@ -62,6 +62,7 @@
 	$languages_2054 = array(
 		"feels+2054"                    => "🇬🇧",
 		"pol+2054"                      => "🇬🇧",
+		"readonly+2054"                 => "",
 		"tech+2054"                     => "🇬🇧",
 		"tools+2054"                    => "🇬🇧"
 	);
@@ -104,7 +105,7 @@
 
 	// http://89.147.109.247/
 	$languages_78aa = array(
-		"cannabis+78aa" => ""
+		"cannabis+78aa"                 => "🇬🇧"
 	);
 
 	// http://session.mathnodes.com/
@@ -182,6 +183,7 @@
 
 	// http://95.179.250.131/
 	$languages_e5e0 = array(
+		"gay+e5e0"                      => "🇬🇧",
 		"generalchat+e5e0"              => "🇬🇧",
 		"nsfw+e5e0"                     => "🇬🇧",
 		"public+e5e0"                   => "🇬🇧"

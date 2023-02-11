@@ -128,7 +128,9 @@
 	$languages_a03c = array(
 		"crypto+a03c"                   => "🇬🇧",
 		"lokinet+a03c"                  => "🇬🇧",
+		"lokinet-updates+a03c"          => "🇬🇧",
 		"oxen+a03c"                     => "🇬🇧",
+		"oxen-updates+a03c"             => "🇬🇧",
 		"session-farsi+a03c"            => "🇮🇷",
 		"session-updates+a03c"          => "🇬🇧",
 		"session+a03c"                  => "🇬🇧"
@@ -225,6 +227,7 @@
 		"literature+fe93"               => "🇨🇳",
 		"mandarin+fe93"                 => "🇨🇳",
 		"music+fe93"                    => "🇨🇳",
+		"notifications+fe93"            => "🇨🇳",
 		"philosophy+fe93"               => "🇨🇳",
 		"privacy+fe93"                  => "🇨🇳",
 		"sci-tech+fe93"                 => "🇨🇳",

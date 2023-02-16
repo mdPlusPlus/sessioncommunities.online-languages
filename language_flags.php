@@ -124,6 +124,11 @@
 		"tori+8e2e"                     => "🇫🇮"
 	);
 
+	// http://185.247.226.128
+	$languages_9a2b = array(
+		"Maddisyns_Chat+9a2b"           => "🇬🇧",
+	);
+
 	// https://open.getsession.org/
 	$languages_a03c = array(
 		"crypto+a03c"                   => "🇬🇧",
@@ -131,6 +136,7 @@
 		"lokinet-updates+a03c"          => "🇬🇧",
 		"oxen+a03c"                     => "🇬🇧",
 		"oxen-updates+a03c"             => "🇬🇧",
+		"session-dev+a03c"              => "🇬🇧",
 		"session-farsi+a03c"            => "🇮🇷",
 		"session-updates+a03c"          => "🇬🇧",
 		"session+a03c"                  => "🇬🇧"
@@ -187,6 +193,7 @@
 	$languages_e5e0 = array(
 		"gay+e5e0"                      => "🇬🇧",
 		"generalchat+e5e0"              => "🇬🇧",
+		"hentai+e5e0"                   => "🇬🇧",
 		"nsfw+e5e0"                     => "🇬🇧",
 		"public+e5e0"                   => "🇬🇧"
 	);

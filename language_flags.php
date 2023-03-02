@@ -85,6 +85,14 @@
 		"guns+2b92"                     => "🇬🇧"
 	);
 
+	// http://community.techbiscuit.co/
+	$languages_48e9 = array(
+		"burnbook+48e9"                 => "🇬🇧",
+		"degoogle+48e9"                 => "🇬🇧",
+		"onewaychannel+48e9"            => "🇬🇧",
+		"orion_crochet+48e9"            => "🇬🇧"
+	);
+
 	// https://2hu-ch.org/
 	$languages_49ac = array(
 		"animu+49ac"                    => "🇬🇧",
@@ -251,6 +259,7 @@
 		$languages_2054,
 		$languages_2812,
 		$languages_2b92,
+		$languages_48e9,
 		$languages_49ac,
 		$languages_52bc,
 		$languages_70d0,

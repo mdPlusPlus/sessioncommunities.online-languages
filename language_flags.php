@@ -85,6 +85,11 @@
 		"guns+2b92"                     => "🇬🇧"
 	);
 
+	// http://94.176.239.60/
+	$languages_2cbd = array(
+		"indexloki+2cbd"                => "🇬🇧"
+	);
+
 	// http://community.techbiscuit.co/
 	$languages_48e9 = array(
 		"burnbook+48e9"                 => "🇬🇧",
@@ -97,6 +102,11 @@
 	$languages_49ac = array(
 		"animu+49ac"                    => "🇬🇧",
 		"cryptography+49ac"             => "🇬🇧"
+	);
+
+	// http://session.hwreload.it/
+	$languages_4b3e = array(
+		"hwr+4b3e"                      => "🇮🇹"
 	);
 
 	// http://20.168.47.58/
@@ -155,6 +165,11 @@
 		"china+a19a"                    => "🇨🇳"
 	);
 
+	// http://93.95.230.10/
+	$languages_b501 = array(
+		"contronews+b501"               => "🇮🇹"
+	);
+
 	// http://185.130.45.173/
 	$languages_b79f = array(
 		"cryptography+b79f"             => "🇬🇧",
@@ -168,12 +183,14 @@
 	// https://session.ka7vee.com/
 	$languages_c01b = array(
 		"ares-races+c01b"               => "🇬🇧",
+		"camping+c01b"                  => "🇬🇧",
 		"cfm+c01b"                      => "🇬🇧",
 		"contesting+c01b"               => "🇬🇧",
 		"cw+c01b"                       => "🇬🇧",
 		"dmr+c01b"                      => "🇬🇧",
 		"dstar+c01b"                    => "🇬🇧",
 		"hamradio+c01b"                 => "🇬🇧",
+		"hamradio_fieldday+c01b"        => "🇬🇧",
 		"hf+c01b"                       => "🇬🇧",
 		"iphone+c01b"                   => "🇬🇧",
 		"ka7vee-w7sj+c01b"              => "🇬🇧",
@@ -259,8 +276,11 @@
 		$languages_2054,
 		$languages_2812,
 		$languages_2b92,
+		$languages_2cbd,
 		$languages_48e9,
 		$languages_49ac,
+		$languages_4b3e,
+		$languages_b501,
 		$languages_52bc,
 		$languages_70d0,
 		$languages_78aa,

@@ -109,6 +109,13 @@
 		"hwr+4b3e"                      => "🇮🇹"
 	);
 
+	// http://5.39.117.98/
+	$languages_4bec = array(
+		"bitcoinaustralia+4bec"         => "🇬🇧",
+		"moneroaustralia+4bec"          => "🇬🇧",
+		"privacyaustralia+4bec"         => "🇬🇧"
+	);
+
 	// http://20.168.47.58/
 	$languages_52bc = array(
 		"australia+52bc"                => "🇬🇧",
@@ -280,6 +287,7 @@
 		$languages_48e9,
 		$languages_49ac,
 		$languages_4b3e,
+		$languages_4bec,
 		$languages_b501,
 		$languages_52bc,
 		$languages_70d0,
